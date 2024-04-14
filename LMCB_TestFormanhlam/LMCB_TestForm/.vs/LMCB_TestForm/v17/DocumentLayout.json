@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|c:\\users\\home\\downloads\\lmcb_testformanhlam\\lmcb_testform\\serverchatform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|solutionrelative:serverchatform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\serverchatform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|solutionrelative:serverchatform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\messagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\messagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\lmcb_testform\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A82C1-F90E-4569-907C-902DBE6C1FB5}|LMCB_TestForm\\LMCB_TestForm.csproj|solutionrelative:lmcb_testform\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\serverchatform\\messagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4DDFE9-AFFE-4FAB-AEA5-9121B571B590}|ServerChatForm\\ServerChatForm.csproj|solutionrelative:serverchatform\\messagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerChatForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\Form1.cs",
+              "RelativeToolTip": "ServerChatForm\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:34:45.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emoji.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Emoji.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\Emoji.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Emoji.cs [Design]",
+              "RelativeToolTip": "LMCB_TestForm\\Emoji.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:33:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Program.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Program.cs",
+              "RelativeToolTip": "LMCB_TestForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T04:04:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Form1.cs",
+              "RelativeToolTip": "LMCB_TestForm\\Form1.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAArwIoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:34:45.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emoji.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Emoji.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\Emoji.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Emoji.cs",
+              "RelativeToolTip": "LMCB_TestForm\\Emoji.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:34:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessagePost.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\MessagePost.cs",
+              "RelativeDocumentMoniker": "ServerChatForm\\MessagePost.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\MessagePost.cs",
+              "RelativeToolTip": "ServerChatForm\\MessagePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:34:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\Form1.cs [Design]",
+              "RelativeToolTip": "LMCB_TestForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:34:45.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessagePost.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\MessagePost.cs",
+              "RelativeDocumentMoniker": "LMCB_TestForm\\MessagePost.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\LMCB_TestForm\\MessagePost.cs",
+              "RelativeToolTip": "LMCB_TestForm\\MessagePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:37:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ServerChatForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\LMCB_TestFormanhlam\\LMCB_TestForm\\ServerChatForm\\Form1.cs [Design]",
+              "RelativeToolTip": "ServerChatForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:34:45.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

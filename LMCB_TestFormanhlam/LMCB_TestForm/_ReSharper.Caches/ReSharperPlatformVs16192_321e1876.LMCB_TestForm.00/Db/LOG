@@ -1,0 +1,37 @@
+2020/04/13-14:15:57.986 1fec Recovering log #398
+2020/04/13-14:15:58.002 1fec Level-0 table #443: started
+2020/04/13-14:15:58.028 1fec Level-0 table #443: 3393718 bytes OK
+2020/04/13-14:15:58.033 1fec Delete type=0 #398
+2020/04/13-14:15:58.034 1fec Delete type=3 #357
+2020/04/13-14:15:58.276 26d0 Compacting 1@0 + 0@1 files
+2020/04/13-14:15:58.288 26d0 Generated table #445: 2340 keys, 905793 bytes
+2020/04/13-14:15:58.314 26d0 Generated table #446: 3142 keys, 2164787 bytes
+2020/04/13-14:15:58.319 26d0 Generated table #447: 344 keys, 322331 bytes
+2020/04/13-14:15:58.319 26d0 Compacted 1@0 + 0@1 files => 3392911 bytes
+2020/04/13-14:15:58.320 26d0 compacted to: files[ 0 3 13 0 0 0 0 ]
+2020/04/13-14:15:59.448 26d0 Compacting 1@1 + 10@2 files
+2020/04/13-14:15:59.464 26d0 Generated table #448: 1255 keys, 2132489 bytes
+2020/04/13-14:15:59.489 26d0 Generated table #449: 4836 keys, 2165780 bytes
+2020/04/13-14:15:59.514 26d0 Generated table #450: 4929 keys, 2160023 bytes
+2020/04/13-14:15:59.537 26d0 Generated table #451: 4576 keys, 2166771 bytes
+2020/04/13-14:15:59.560 26d0 Generated table #452: 3889 keys, 2184743 bytes
+2020/04/13-14:15:59.582 26d0 Generated table #453: 3052 keys, 2174866 bytes
+2020/04/13-14:15:59.604 26d0 Generated table #454: 3274 keys, 2160008 bytes
+2020/04/13-14:15:59.631 26d0 Generated table #455: 3232 keys, 2183600 bytes
+2020/04/13-14:15:59.657 26d0 Generated table #456: 2673 keys, 2167723 bytes
+2020/04/13-14:15:59.685 26d0 Generated table #457: 3721 keys, 2154829 bytes
+2020/04/13-14:15:59.695 26d0 Generated table #458: 1162 keys, 919048 bytes
+2020/04/13-14:15:59.695 26d0 Compacted 1@1 + 10@2 files => 22569880 bytes
+2020/04/13-14:15:59.697 26d0 Delete type=2 #424
+2020/04/13-14:15:59.697 26d0 Delete type=2 #427
+2020/04/13-14:15:59.698 26d0 Delete type=2 #429
+2020/04/13-14:15:59.698 26d0 Delete type=2 #431
+2020/04/13-14:15:59.698 26d0 Delete type=2 #434
+2020/04/13-14:15:59.699 26d0 Delete type=2 #435
+2020/04/13-14:15:59.699 26d0 Delete type=2 #436
+2020/04/13-14:15:59.700 26d0 Delete type=2 #437
+2020/04/13-14:15:59.700 26d0 Delete type=2 #438
+2020/04/13-14:15:59.701 26d0 Delete type=2 #439
+2020/04/13-14:15:59.701 26d0 Delete type=2 #443
+2020/04/13-14:15:59.702 26d0 Delete type=2 #445
+2020/04/13-14:15:59.702 26d0 compacted to: files[ 0 2 14 0 0 0 0 ]
